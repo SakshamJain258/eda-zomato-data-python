@@ -1,0 +1,12 @@
+
+.ipynb_checkpoints/
+
+__pycache__/
+*.pyc
+
+.env
+
+.DS_Store
+Thumbs.db
+# Large raw datasets
+Datasets/raw_data.csv
